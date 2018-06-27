@@ -1,0 +1,19 @@
+﻿body, html {
+    margin: 7px;
+}
+
+body {
+    background-color: rgb(150, 72, 228)
+}
+
+#wrapper {
+    height: 90%;
+    width: 100%;
+    text-align: center
+}
+
+#content {
+    border-radius: 22px;
+    border: 5px dotted rgb(51, 18, 235);
+    margin-top: 15px
+}
